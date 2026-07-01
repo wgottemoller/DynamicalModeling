@@ -1,0 +1,3 @@
+The spatially resolved kinematics pipeline for DESJ2112 requires a combined_backup of the integrated velocity dispersion, 
+which we can obtain via the integrated velocity dispersion measurements. You can either run the pipeline to get the integrated velocity dispersion,
+or you can use the following drive link (https://drive.google.com/file/d/14u_GBfR1jl_kXqK3Tu63h60iSX2M7J-F/view?usp=sharing) to obtain the necessary params.
