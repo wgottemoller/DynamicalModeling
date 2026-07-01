@@ -1,0 +1,4 @@
+The spatially resolved kinematics pipeline produces a pickle file with name "DESJ2112_r_spatially_resolved_kinematics.pkl."
+To access this file, go to the "Spatially-Resolved Kinematics" folder, and you will see it there. You will also need the 
+HST WFC3 F140W and F200LP images for this system, which you can access in this Google Drive folder:
+https://drive.google.com/drive/folders/1AgM9qi_REJcq-pWxjm4wkqYecZYvXsWL?usp=sharing
